@@ -1,0 +1,2 @@
+rootProject.name='Swine Production and Economics'
+include ':app'
